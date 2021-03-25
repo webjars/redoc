@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>redoc</artifactId>
-    <version>2.0.1-rc.23-SNAPSHOT</version>
+    <version>2.0.0-rc.50-SNAPSHOT</version>
     <name>ReDoc</name>
     <description>WebJar for ReDoc</description>
     <url>http://webjars.org</url>
